@@ -1,0 +1,2 @@
+# Longevity-of-Webpages-Text-Mining
+Classification of web pages is a challenging machine learning problem. The main objective of this project is to predict the longevity of the web pages, that is predicting if a web page is evergreen or not, using different machine learning techniques. The problem is based on the binary classification which is achieved using the machine learning algorithms and text mining.
